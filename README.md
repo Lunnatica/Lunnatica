@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Lunnatica
+- 👩‍💻 Hi, I’m @Lunnatica
 - 👀 I’m interested in Serverless, Next.js, videogames and books!
-- 💼 Currently working @ The LEGO Group
+- 💼 Currently working @ The LEGO Group 
+- 🤓 Co-founder of [Articca](www.articca.co.uk)
 - 💞️ I’m looking to collaborate on anything exciting!
 - 📫 How to reach me: via email to <articcaltd@gmail.com>
+
+👾 Check my Animal Crossing website: [Nookfriends](www.nookfriends.com)
 
 <!---
 Lunnatica/Lunnatica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

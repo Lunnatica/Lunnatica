@@ -1,3 +1,5 @@
+![](/pugWave.gif)
+
 - 👩‍💻 Hi, I’m @Lunnatica
 - 👀 I’m interested in Serverless, Next.js, videogames and books!
 - 💼 Currently working @ The LEGO Group 

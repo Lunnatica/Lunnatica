@@ -7,8 +7,3 @@
 - 📫 How to reach me: via email to <articcaltd@gmail.com>
 
 👾 Check my Animal Crossing website: [Nookfriends](https://www.nookfriends.com)
-
-<!---
-Lunnatica/Lunnatica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

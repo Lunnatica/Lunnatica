@@ -1,6 +1,6 @@
 ![](/pugWave.gif)
 
-- 👩‍💻 Hi, I’m @Lunnatica
+- 👩‍💻 Hi, I’m @Lunnatica, a full-stack software engineer
 - 👀 I’m interested in Serverless, Next.js, videogames and books!
 - 🤓 Co-founder of [Articca](https://www.articca.co.uk)
 - 💞️ I’m looking to collaborate on anything exciting!
